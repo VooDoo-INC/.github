@@ -1,5 +1,4 @@
-
-![voodoobanner](https://github.com/user-attachments/assets/d6811443-553c-4c67-b61e-c8d79a79b0a7)
+![voodoobanner](https://github.com/user-attachments/assets/4aafa995-ac96-4c25-acba-65ac1e4a9366)
 
 ## About us
 * We are small community of novice ethical hackers and linux users
@@ -10,6 +9,8 @@
 * Contribute to our public repositories
 * Know one of the creators personally
 
----
+ <br/>
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/red.png" width="100%" height="4px" />
+</div>
 
 You can find the [team rules]() and [requirements for repository design]() by following the links
