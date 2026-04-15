@@ -9,4 +9,8 @@ You should use markdowns like:
 * point (* )
 1. Number (1. 2. 3. 4. )
 
+```
+code
+```
+
 It makes repositories alive and pretty
