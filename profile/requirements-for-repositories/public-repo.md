@@ -19,10 +19,11 @@ It makes repositories alive and pretty
 in this place you should add sscreenshots with your product
 
 ## Tested distros
-
+In this place you should add distributions on which the product has already been installed and worked stable. It needs to make user experience better
 
 ## Installation
 In this place you should write about installation your product. If the installation supports multiple applications (as on gentoo), then it can be divided into several points (if gentoo separately suggests using flags, package.accept_keywords, package.use, etc.) It is necessary to describe the complete installation process so that the user can quickly install everything with a minimum of effort
 
 ## Recommended settings (if need)
 In rhis place you should add recommended settings if your product is plugin/theme or other thing which it need
+
