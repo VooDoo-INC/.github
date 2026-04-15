@@ -17,3 +17,6 @@ It makes repositories alive and pretty
 
 ## Screenshots
 in this place you should add sscreenshots with your product
+
+## Installation
+In this place you should write about installation your product. If the installation supports multiple applications (as on gentoo), then it can be divided into several points (if gentoo separately suggests using flags, package.accept_keywords, package.use, etc.) It is necessary to describe the complete installation process so that the user can quickly install everything with a minimum of effort
