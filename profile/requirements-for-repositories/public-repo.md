@@ -27,3 +27,7 @@ In this place you should write about installation your product. If the installat
 ## Recommended settings (if need)
 In rhis place you should add recommended settings if your product is plugin/theme or other thing which it need
 
+## Structure of project (optional)
+In this place you can add structure of your project
+
+## License
