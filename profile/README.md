@@ -13,4 +13,4 @@
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/red.png" width="100%" height="4px" />
 </div>
 
-You can find the [team rules]() and [requirements for repository design]() by following the links
+You can find the [team rules](https://github.com/VooDoo-INC/.github/blob/main/profile/team-rules.md) and [requirements for repository design]() by following the links
