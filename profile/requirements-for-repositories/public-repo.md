@@ -30,4 +30,5 @@ In rhis place you should add recommended settings if your product is plugin/them
 ## Structure of project (optional)
 In this place you can add structure of your project
 
-## License
+## License (optional)
+You can add your license if you need
