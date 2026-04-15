@@ -15,5 +15,5 @@ code
 
 It makes repositories alive and pretty
 
-## Screenshota
+## Screenshots
 in this place you should add sscreenshots with your product
