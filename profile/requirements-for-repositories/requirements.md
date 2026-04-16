@@ -3,7 +3,7 @@
 </div>
 
 # Public repositories
-Public repositories you must to arrange with [pattern for public repositories](). In several points you can deviate from our public patterns. 
+Public repositories you must to arrange with [pattern for public repositories](). In several points you can deviate from our public patterns
 
 ## License
 You should add a license to every public repository. It needs to protect copyright and to remove the possibility of monetization of these projects when they are borrowed
