@@ -19,3 +19,12 @@ You should add a license to every public repository. It needs to protect copyrig
 </div>
 
 # Your configs
+There are no requirements for private personal configs. Only you decide what happens there, and none of the rules outlined above apply to private repositories with personal configs.
+
+## There are only 2 requirements:
+* Add anonymous information about the device on which these configs are used (The device information only requires the name of the device, the operation system used, and accessories. Other information is not required to be specified). This is necessary for sharing knowledge and borrowing fragments of configs
+* It is advisable to attach screenshots and write in English. This is not necessary and there will be nothing for non-compliance with these rules but it is still desirable to do it
+
+ <br/>
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/red.png" width="100%" height="3px" />
+</div>
