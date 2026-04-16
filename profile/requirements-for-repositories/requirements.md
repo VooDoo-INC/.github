@@ -30,3 +30,4 @@ There are no requirements for private personal configs. Only you decide what hap
 </div>
 
 # Private repositories
+Private repositories are divided into 2 types - exclusive products only for our team and products whose development has begun but has not yet ended.
