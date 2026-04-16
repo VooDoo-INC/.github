@@ -9,3 +9,5 @@ You should add a license to every public repository. It needs to protect copyrig
 * Propaganda of LGBT, fascism, racial hatred and infringement of any of the two existing genders is strictly prohibited
 * Advertising of proprietary software, casinos, weapons, drugs, forged documents and other things related to crime is prohibited
 * It is strictly forbidden to write in plain text what criminal software can be used for. All examples should be related to learning only because we can't directly violate the laws of any country
+
+# Your configs
