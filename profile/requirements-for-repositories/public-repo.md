@@ -33,6 +33,8 @@ In this place you can add structure of your project
 ## License (optional)
 You can add your license if you need
 
----
+<br/>
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/red.png" width="100%" height="3px" />
+</div>
 
 [Example of real repository you can find here](https://github.com/RomanLivik/root-seeker)
