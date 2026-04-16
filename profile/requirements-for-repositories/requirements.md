@@ -3,7 +3,7 @@
 </div>
 
 # Public repositories
-Public repositories you must to arrange with [pattern for public repositories](). In several points you can deviate from our public patterns
+Public repositories you must to arrange with [pattern for public repositories](). In several points you can deviate from our public patterns. Please note that working with markdowns in public repositories is mandatory
 
 ## License
 You should add a license to every public repository. It needs to protect copyright and to remove the possibility of monetization of these projects when they are borrowed
@@ -28,3 +28,5 @@ There are no requirements for private personal configs. Only you decide what hap
  <br/>
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/red.png" width="100%" height="3px" />
 </div>
+
+# Private repositories
