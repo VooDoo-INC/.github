@@ -10,4 +10,8 @@ You should add a license to every public repository. It needs to protect copyrig
 * Advertising of proprietary software, casinos, weapons, drugs, forged documents and other things related to crime is prohibited
 * It is strictly forbidden to write in plain text what criminal software can be used for. All examples should be related to learning only because we can't directly violate the laws of any country
 
+ <br/>
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/red.png" width="100%" height="3px" />
+</div>
+
 # Your configs
