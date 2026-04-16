@@ -1,3 +1,7 @@
+ <br/>
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/red.png" width="100%" height="3px" />
+</div>
+
 # Public repositories
 Public repositories you must to arrange with [pattern for public repositories](). In several points you can deviate from our public patterns. 
 
