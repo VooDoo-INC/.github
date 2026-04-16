@@ -19,9 +19,10 @@ You should add a license to every public repository. It needs to protect copyrig
 </div>
 
 # Your configs
-There are no requirements for private personal configs. Only you decide what happens there, and none of the rules outlined above apply to private repositories with personal configs.
+There are no requirements for private personal configs. Only you decide what happens there, and none of the rules outlined above apply to private repositories with personal configs. 
 
-## There are only 2 requirements:
+## There are only 3 requirements:
+* Repository must be private
 * Add anonymous information about the device on which these configs are used (The device information only requires the name of the device, the operation system used, and accessories. Other information is not required to be specified). This is necessary for sharing knowledge and borrowing fragments of configs
 * It is advisable to attach screenshots and write in English. This is not necessary and there will be nothing for non-compliance with these rules but it is still desirable to do it
 
@@ -29,5 +30,15 @@ There are no requirements for private personal configs. Only you decide what hap
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/red.png" width="100%" height="3px" />
 </div>
 
-# Private repositories
-Private repositories are divided into 2 types - exclusive products only for our team and products whose development has begun but has not yet ended.
+# Other private repositories
+Other private repositories are divided into 2 types - exclusive products only for our team and products whose development has begun but has not yet ended.
+
+## Exclusive products
+In this repositories you should write purpose of your product. The arrange is not particularly important, only the product description is important
+
+## Product in development
+In this repositories you should write base description of product. It must be like blank for the public repository template. Other things is not necessary
+
+<br/>
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/red.png" width="100%" height="3px" />
+</div>
