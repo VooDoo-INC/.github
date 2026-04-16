@@ -6,7 +6,7 @@
 Public repositories you must to arrange with [pattern for public repositories](https://github.com/VooDoo-INC/.github/blob/main/profile/requirements-for-repositories/requirements.md). In several points you can deviate from our public patterns. Please note that working with markdowns in public repositories is mandatory
 
 ## License
-You should add a license to every public repository. It needs to protect copyright and to remove the possibility of monetization of these projects when they are borrowed. For global project you should add GNU/GPL license, for mid - MIT License and for a small project - unlicense or other license with small part of copyrit
+You should add a license to every public repository. It needs to protect copyright and to remove the possibility of monetization of these projects when they are borrowed. For global project you should add GNU/GPL license, for mid - MIT License and for a small project - unlicense or other license with small part of copyright
 
 ## Strictly prohibited
 * It is strictly forbidden to use obscene language in the README, as well as any kind of insults
